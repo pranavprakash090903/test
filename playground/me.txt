@@ -1,5 +1,0 @@
-{{#user}
-Name: Pranav Prakash Saxena                                                                                                                                     
-Skills: HTML, CSS, JS, Next.js
-Email: pranavprakash090903@gmail.com
-{{/user}}
